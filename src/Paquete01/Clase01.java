@@ -7,13 +7,11 @@ public class Clase01 {
 		System.out.println("Proyecto01 - Paquete01 - Clase01");
 
 		System.out.println("hola");
-		System.out.println("hola2");
-
-		System.out.println("soy el master");
-
-		System.out.println("soy la rama2");
-
-		System.out.println("hola3 rama1");
+	    System.out.println("hola2");
+	    System.out.println("soy el master");
+	    System.out.println("soy la rama2");
+	    System.out.println("hola3 rama1");
+	    System.out.println("soy la rama3");
 	    System.out.println("hola4 rama1");
 	    
 	}
