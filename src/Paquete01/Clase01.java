@@ -7,6 +7,8 @@ public class Clase01 {
 		System.out.println("Proyecto01 - Paquete01 - Clase01");
 
 		System.out.println("hola");
+		System.out.println("hola2");
+	    
 	    
 	}
 
