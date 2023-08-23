@@ -6,6 +6,8 @@ public class Clase01 {
 		// TODO Auto-generated method stub
 		System.out.println("Proyecto01 - Paquete01 - Clase01");
 
+		System.out.println("hola");
+	    
 	}
 
 }
